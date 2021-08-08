@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamhazimeh
 - 👀 I’m interested in Deep Learning and Neural Networks, specifically topics related to Computer Vision
 - 📚 I’m currently working towards a BE in Computer Science & Engineering
-- 👨‍💻 I’m looking to collaborate on impactful projects related to Deep Learning
+- 👨‍💻 I’m looking to collaborate on impactful projects related to Computer Vision
 - 📫 How to reach me: adamhazimeh@gmail.com
 
 <!---
