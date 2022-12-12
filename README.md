@@ -1,5 +1,5 @@
 - Hi, I’m @adamhazimeh
-- I’m interested in Deep Learning, specifically topics related to Computer Vision
+- I’m interested in robustness and interpretability in ML.
 - I’m currently working towards a BE in Computer Science & Engineering
 - Contact: adamhazimeh@gmail.com
 
